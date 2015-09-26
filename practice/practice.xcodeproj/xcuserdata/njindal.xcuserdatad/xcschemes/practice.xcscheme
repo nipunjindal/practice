@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "78277D5C1BB675A400AA10AD"
-               BuildableName = "practice.bundle"
+               BlueprintIdentifier = "78277D7A1BB678CA00AA10AD"
+               BuildableName = "practice"
                BlueprintName = "practice"
                ReferencedContainer = "container:practice.xcodeproj">
             </BuildableReference>
@@ -29,6 +29,15 @@
       buildConfiguration = "Debug">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "78277D7A1BB678CA00AA10AD"
+            BuildableName = "practice"
+            BlueprintName = "practice"
+            ReferencedContainer = "container:practice.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -39,15 +48,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "78277D5C1BB675A400AA10AD"
-            BuildableName = "practice.bundle"
+            BlueprintIdentifier = "78277D7A1BB678CA00AA10AD"
+            BuildableName = "practice"
             BlueprintName = "practice"
             ReferencedContainer = "container:practice.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -57,15 +66,15 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "78277D5C1BB675A400AA10AD"
-            BuildableName = "practice.bundle"
+            BlueprintIdentifier = "78277D7A1BB678CA00AA10AD"
+            BuildableName = "practice"
             BlueprintName = "practice"
             ReferencedContainer = "container:practice.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
